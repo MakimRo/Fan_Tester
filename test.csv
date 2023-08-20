@@ -1,0 +1,34 @@
+Manufacturing #,Trenton #,Revision Version,Manufaturer,Connectors?,Wire,Wire #,Dual,Dimensions,Curr,Current,RPMone,RPM1,RPMtwo,RPM2,Voltage,Favorites,Notes (add comma to end)
+EEC0981B2-0000-A99,153500001000-00,0,Sunon Global,Y,wire,4,N,120 x 38 mm,Curr,0.421,RPM1,2600,RPM2,0,12V,0,
+PMD1212PTB3,153500001006-00,0,Sunon Global,N,wire,2,N,120 x 25 mm,Curr,0.54,RPM1,3600,RPM2,0,12V,1,
+FFB0992SH,153500001010-00,0,Delta Electronics,Y,wire,2,N,80 x 25 mm,Curr,0.5,RPM1,4500,RPM2,0,12V,2,
+AUB9812VH,153500001012-00,0,Delta Electronics,N,wire,3,N,80 x 25 mm,Curr,0.41,RPM1,3600,RPM2,0,12V,3,
+AFB0912SH,153500001014-00,0,Delta Electronics,Y,wire,3,N,92 x 25 mm,Curr,1,RPM1,4800,RPM2,0,12V,4,Has speed control compared to first one
+FFB0812SH,153500001015-00,0,Delta Electronics,N,wire,3,N,80 x 25.4 mm,Curr,0.5,RPM1,4500,RPM2,0,12V,5,
+AFC0912D,153500001016-00,0,Delta Electronics,N,wire,4,N,92 x 25.4 mm,Curr,1,RPM1,4800,RPM2,0,12V,6,
+AFB9612DH,153500001017-00,0,Delta Electronics,N,wire,3,N,60 x 25.4 mm,Curr,0.84,RPM1,9000,RPM2,0,12V,7,
+PFB0912DHE,153500001018-00,0,Delta Electronics,N,wire,3,N,92 x 38 mm,Curr,3.1,RPM1,8000,RPM2,0,12V,8,speed cntrl 175CFM
+GFC0412DS,153500001020-00,0,Delta Electronics,N,wire,4,Y,40 x 56 mm,Curr,1.2,RPM1,15300,RPM2,11300,12V,9,
+AFC0612DE,153500001021-00,0,Delta Electronics,Y,wire,4,N,60 x 38 mm,Curr,1.8,RPM1,12000,RPM2,0,12V,10,
+AFB0912SH,153500001025-00,0,Delta Electronics,Y,wire,3,N,92 x 25 mm,Curr,1,RPM1,4800,RPM2,0,12V,11,Has a different connector compared to first
+AFC0912D,153500001026-00,0,Delta Electronics,Y,wire,4,N,92 x 25.4 mm,Curr,1,RPM1,4800,RPM2,0,12V,12,Has a different connector compared to first
+GFC0412DS,153500001027-01,1,Delta Electronics,Y,wire,4,Y,40 x 56 mm,Curr,1.2,RPM1,15300,RPM2,11300,12V,13,Has a different connector compared to first
+PFB0912DHE,153500001028-00,0,Delta Electronics,Y,wire,3,N,92 x 38 mm,Curr,3.1,RPM1,8000,RPM2,0,12V,14,
+AFB1212SH,153500001029-00,0,Delta Electronics,Y,wire,3,N,120 x 25 mm,Curr,0.8,RPM1,3400,RPM2,0,12V,15,
+AFC0612DE,153500001031-01,1,Delta Electronics,Y,wire,4,N,60 x 38 mm,Curr,1.8,RPM1,12000,RPM2,0,12V,16,Connected Cable Assy
+QFR1212GHE,153500001034-00,0,Delta Electronics,Y,wire,4,N,120 x 38 mm,Curr,1.8,RPM1,6000,RPM2,0,12V,17,
+PFB0912DHE,153500001036-00,0,Delta Electronics,Y,wire,3,N,92 x 38 mm,Curr,3.1,RPM1,8000,RPM2,0,12V,18,different connector
+GFM0812DS-SM,153500001037-01,1,Delta Electronics,Y,wire,4,Y,80 x 56 mm,Curr,4.8,RPM1,12500,RPM2,11000,12V,19,5th wire tied
+9GV0912P1G03,153500001037-02,2,Sanyodenki,Y,wire,4,N,92 x 38 mm,Curr,4.1,RPM1,9000,RPM2,0,12V,20,
+GFC0412DS,153500001040-02,2,Delta Electronics,Y,wire,4,Y,40 x 56 mm,Curr,1.2,RPM1,15300,RPM2,11300,12V,21,5th wire tied
+BFB04512HHA,153500001044-00,0,Delta Electronics,N,wire,2,N,45 x 10 mm,Curr,0.11,RPM1,6500,RPM2,0,12V,22,
+9GA0412P3J01,153500001047-01,1,Sanyodenki,Y,wire,4,N,40 x 28mm,Curr,0.49,RPM1,18000,RPM2,0,12V,23,
+9GA0412P3J01,153500001047-02,2,Sanyodenki,Y,wire,4,N,40 x 28mm,Curr,0.49,RPM1,18000,RPM2,0,12V,24,5 wire tied
+AFC0712DB,153500001049-00,0,Delta Electronics,N,wire,4,N,70 x 15 mm,Curr,0.45,RPM1,6000,RPM2,0,12V,25,
+PFR0912XHE,153500001051-00,0,Delta Electronics,N,wire,4,N,92 x 38 mm,Curr,4.5,RPM1,11500,RPM2,0,12V,26,
+PFR0912XHE,153500001052-01,1,Delta Electronics,Y,wire,4,N,92 x 38 mm,Curr,4.5,RPM1,11500,RPM2,0,12V,27,connector
+PFC0612DE,153500001054-00,0,Delta Electronics,Y,wire,4,N,60 x 38 mm,Curr,1.68,RPM1,12000,RPM2,0,12V,28,
+THA0412BN,153500001056-00,0,Delta Electronics ,Y,wire,4,N,40 x 28 mm,Curr,1.32,RPM1,19000,RPM2,0,12V,29,
+GFM0812DS-SM,153500001058-00,0,Delta Electronics,Y,wire,4,Y,80 x 56 mm,Curr,4.8,RPM1,12500,RPM2,11000,12V,30,
+GFM0812DS-SM,153500002074-00,0,Delta Electronics,Y,wire,3,N,80 x 56 mm,Curr,4.8,RPM1,12500,RPM2,11000,12V,31,4 wire clipped
+AFB0912SH,153500002075-00,0,Delta Electronics,Y,wire,3,N,92 x 25 mm,Curr,1,RPM1,4800,RPM2,0,12V,32,
